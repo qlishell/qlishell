@@ -25,7 +25,7 @@ const shell = {
     askMeAbout: ["web dev", "tech", "app dev", "photography", "AI/ML", "cloud computing"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Angular"],
+            js: ["React", "Vue", "Angular", "Next"],
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
