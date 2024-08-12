@@ -21,16 +21,15 @@
 ```javascript
 const shell = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "C#"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "AI/ML", "cloud computing"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Angular", "Next"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Bootstrap", "SASS"]
         },
         backEnd: {
             js: ["Node", "Fastify", "Express", "NestJS"],
-            python: ["Django", "Flask"],
             csharp: [".NET"]
         },
         mobileApp: {
@@ -39,7 +38,7 @@ const shell = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["SQL Server", "MongoDB", "MySQL", "SQLite", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "OpenCV", "SuiteApp", "GraphQL"],
+        misc: ["Firebase", "Socket.IO", "RESTful API", "GraphQL"],
         testing: ["Selenium", "Jest", "Vitest"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications", "Microservices"],
