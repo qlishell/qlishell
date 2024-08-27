@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about future orientaion
 
 ```javascript
 const shell = {
@@ -29,19 +29,20 @@ const shell = {
             css: ["Tailwind", "Bootstrap", "SASS"]
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express", "NestJS"],
+            js: ["Node", "Fastify", "Express", "Nest"],
             csharp: [".NET"]
         },
         mobileApp: {
             native: ["Android Development", "iOS Development"],
             crossPlatform: ["React Native"]
         },
+        blockChain: ["Solidity"],
         devOps: ["AWS", "Docker🐳"],
         databases: ["SQL Server", "MongoDB", "MySQL", "SQLite", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "RESTful API", "GraphQL"],
-        testing: ["Selenium", "Jest", "Vitest"]
+        testing: ["Jest", "Vitest"]
     },
-    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications", "Microservices"],
+    architecture: ["Microservices", "Serverless Architecture", "Clean Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: "Exploring AI/ML technologies",
     funFact: "There are two ways to write error-free programs; only the third works."
 };
